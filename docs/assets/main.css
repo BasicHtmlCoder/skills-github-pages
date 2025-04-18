@@ -654,4 +654,25 @@ table td {
   top: 5px;
 }
 
+span.rev {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+
+span.rev.email:before {
+  content: "liamg";
+}
+
+span.rev.email:after {
+  content: "@ray29 :liamE";
+}
+
+span.rev.phone:before {
+  content: "353 912 ";
+}
+
+span.rev.phone:after {
+  content: " 33+ :enohP";
+}
+
 /*# sourceMappingURL=main.css.map */
