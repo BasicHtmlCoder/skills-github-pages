@@ -672,7 +672,16 @@ span.rev.phone:before {
 }
 
 span.rev.phone:after {
-  content: " 33+ :enohP";
+  content: " 33+ :enohpeleT";
+}
+
+body {
+  background-image: url("/skills-github-pages/kx8MT.gif");
+  background-size: cover;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  color: beige;
 }
 
 /*# sourceMappingURL=main.css.map */
