@@ -72,5 +72,5 @@ Japan:
 - Isuzu: Compatible avec les protocoles OBD2 et ELM327.
 - Infiniti: Compatible avec les protocoles OBD2 et ELM327.
 
-<p><span class="rev email">ray29</span></p>
+<p><span class="rev email">liamg</span></p>
 <p><span class="rev phone">967</span></p>
